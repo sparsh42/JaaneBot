@@ -1,0 +1,179 @@
+[
+	{
+		"question": "What colour is the sky?",
+		"answers": ["blue"]
+	},
+	{
+		"question": "How many letters are there in the alphabet?",
+		"answers": ["26", "twenty-six", "twenty six", "twentysix"]
+    },
+    {
+		"question": "How many Oscars does Leo DeCap have?",
+		"answers": ["1", "one", "01", "one"]
+	},
+	{
+		"question": "Which film did Steven Spielberg win his first Oscar for Best Director?",
+		"answers": ["Schindler’s List", "Schindlers List"]
+	},
+	{
+		"question": "What country won the very first FIFA World Cup in 1930?",
+		"answers": ["Uruguay"]
+	},
+	{
+		"question": "Which Jamaican runner is an 11-time world champion and holds the record in the 100 and 200-meter race?",
+		"answers": ["Usain Bolt","Bolt","Usain"]
+	},
+	{
+		"question": "Which email service is owned by Microsoft?",
+		"answers": ["Hotmail","Hot mail","Hot-mail"]
+	},
+	{
+		"question": "Who was the first woman to win a Nobel Prize",
+		"answers": ["Marie Curie","Curie"]
+	},
+	{
+		"question": "Which planet is the hottest in the solar system?",
+		"answers": ["Venus"]
+	},
+	{
+		"question": "Which animal can be seen on the Porsche logo?",
+		"answers": ["Horse"]
+	},
+	{
+		"question": "Which company owns Bugatti, Lamborghini. Audi, Porsche, and Ducati?",
+		"answers": ["Volkswagen"]
+	},
+	{
+		"question": "Which country produces the most coffee in the world?",
+		"answers": ["Brazil","Republic of Brazil"]
+	},
+	{
+		"question": "Which country is responsible for giving us pizza and pasta?",
+		"answers": ["Italy"]
+	},
+	{
+		"question": "Which European nation was said to invent hot dogs?",
+		"answers": ["Germany"]
+	},
+	{
+		"question": "Which organ has four chambers?",
+		"answers": ["heart","Heart"]
+	},
+	{
+		"question": "What is your body’s largest organ?",
+		"answers": ["Skin"]
+	},
+	{
+		"question": "Which infinity stone was located on Vormir?",
+		"answers": ["Soul Stone","Soul-stone"]
+	},
+	{
+		"question": "What was Superman’s birth name?",
+		"answers": ["Kal-El","Kal El"]
+	},
+	{
+		"question": "What is the first name of Batman’s butler?",
+		"answers": ["Alfred"]
+	},
+	{
+		"question": "What is the full form of the comic company DC stand for?",
+		"answers": ["Detective-Comics","Detective Comics"]
+	},
+	{
+		"question": "Which American state is the largest (by area)?",
+		"answers": ["Alaska"]
+	},
+	{
+		"question": "What is the capital of New Zealand?",
+		"answers": ["Wellington"]
+	},
+	{
+		"question": "What is the capital of South Korea?",
+		"answers": ["Seoul"]
+	},
+	{
+		"question": "What is the capital of Egypt?",
+		"answers": ["Cairo"]
+	},
+	{
+		"question": "What is the capital of France?",
+		"answers": ["Paris"]
+	},
+	{
+		"question": "What is the capital of Cuba?",
+		"answers": ["Havana"]
+	},
+	{
+		"question": "What is the capital of Bulgaria?",
+		"answers": ["Sofia"]
+	},
+	{
+		"question": "What genre of music did Taylor Swift start in?",
+		"answers": ["Country"]
+	},
+	{
+		"question": "How many Grammys does John Legend have?",
+		"answers": ["10","ten"]
+	},
+	{
+		"question": "Who is the writer of `Merchant of Venice`?",
+		"answers": ["William Shakespeare","Shakespeare"]
+	},
+	{
+		"question": "Which cartoon character lives in a pineapple under the sea?",
+		"answers": ["Spongebob Squarepants","Spongebob"]
+	},
+	{
+		"question": "Which American president was involved in the Watergate scandal?",
+		"answers": ["Nixon","Richard Nixon"]
+	},
+	{
+		"question": "Which mammal has no vocal cords?",
+		"answers": ["Giraffe"]
+	},
+	{
+		"question": "Which watch company has a pointed crown as its logo?",
+		"answers": ["Rolex"]
+	},
+	{
+		"question": "In which year World War I begin?",
+		"answers": ["1914","Nineteen Fourteen"]
+	},
+	{
+		"question": "In which country Adolph Hitler was born?",
+		"answers": ["Austria"]
+	},
+	{
+		"question": "Which year did humans first land on the moon?",
+		"answers": ["1969","Nineteen Sixty Nine","Nineteen Sixty-Nine"]
+	},
+	{
+		"question": "The Roman God of War inspired the name of which planet?",
+		"answers": ["Mars"]
+	},
+	{
+		"question": "The Roman God of Beauty inspired the name of which planet?",
+		"answers": ["Venus"]
+	},
+	{
+		"question": "How many squares encompass a Chess board?",
+		"answers": ["64","Sixty-Four","Sixty Four"]
+	},	
+	{
+		"question": "Which author has written the famous book _1984_?",
+		"answers": ["Orwell","George Orwell"]
+	},
+	{
+		"question": "Who was the first Black President of the United States",
+		"answers": ["Barack Obama","Obama"]
+	},
+	{
+		"question": "Which planet is titled 90 degrees on its axis?",
+		"answers": ["Uranus"]
+	}
+
+]
+
+
+
+

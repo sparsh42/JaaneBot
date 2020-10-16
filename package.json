@@ -1,0 +1,17 @@
+{
+  "name": "discbots",
+  "version": "1.0.0",
+  "description": "Bots for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.3.1",
+    "mee6-levels-api": "^1.1.0",
+    "unique-random": "^2.1.0"
+  }
+}
