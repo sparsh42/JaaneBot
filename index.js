@@ -24,23 +24,6 @@ client.on('message', async message => {
 		message.channel.send("Game successfully Quitted!"); 
 	}
 
-	if(message.content.toLowerCase().startsWith("!love"))
-	{
-
-	const canvas = Canvas.createCanvas(900, 550);
-	const ctx = canvas.getContext('2d');
-
-	const background = await Canvas.loadImage('./love.jpg');
-
-	ctx.drawImage(background, 0, 0, canvas.width, canvas.height);
-	const attachment = new Discord.MessageAttachment(canvas.toBuffer(), 'welcome-image.png');
-
-	message.channel.send(`Vaise toh I am in love with Cemil and Beast and almost everyone else - but I feel as a bot my only true love should be who it always was - MEE6. Love my babu :yawning_face: `, attachment);
-
-
-
-	}
-
 	if (message.content.startsWith(`${prefix}`)) {
 		if (games.has(message.channel.id)) {
 			message.channel.send('game already in progress');
